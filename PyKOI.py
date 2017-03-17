@@ -2,6 +2,7 @@
 
 """
 To be done:
+- change filename to masterdata.csv and upload
 - check if LC SC mixture caused by MAST or corrupt csv files
 - Test running mean for LC and SC
 """
